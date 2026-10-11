@@ -88,9 +88,3 @@ Representa los intentos realizados por los estudiantes al rendir una evaluación
 
 ## Objetivo
 Diseñar una base de datos funcional para una plataforma e-learning que permita estructurar el contenido programático de los cursos (módulos y lecciones), controlar las inscripciones y el avance de los estudiantes, y administrar el sistema de evaluaciones junto con el registro de calificaciones de los alumnos.
-
-## Herramienta utilizada
-- Herramienta de modelado gráfico para la elaboración del diagrama Entidad-Relación.
-
-## Archivo del ejercicio
-- `ejercicio 9.jpg`: diagrama Entidad-Relación del sistema de cursos online.
